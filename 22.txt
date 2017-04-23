@@ -1,0 +1,7 @@
+ssh keygen -t rsa -C "×¢²áÓÊÏä"
+git init ³õÊ¼»¯
+git remote add origin 
+git add
+git stasus 
+git commit-m ""
+git push -u 0rigin master 
